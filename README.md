@@ -5,7 +5,7 @@ scSorterDL is a novel method that combines ensemble learning with deep learning.
 
   Real Datasets (processed) referenced in the manuscript are available in Data folder
 - **Code**
-- 
+  
 - **Link to Annotation Tools**
 
   For the information of software updates, please go to their corresponding pages.
