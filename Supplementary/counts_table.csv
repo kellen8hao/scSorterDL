@@ -1,0 +1,237 @@
+"Dataset","CellType","CellCount"
+"Baron","acinar",958
+"Baron","activated_stellate",284
+"Baron","alpha",2326
+"Baron","beta",2525
+"Baron","delta",601
+"Baron","ductal",1077
+"Baron","endothelial",252
+"Baron","epsilon",18
+"Baron","gamma",255
+"Baron","macrophage",55
+"Baron","mast",25
+"Baron","quiescent_stellate",173
+"Baron","schwann",13
+"Baron","t_cell",7
+"Muraro","acinar",274
+"Muraro","activated_stellate",90
+"Muraro","alpha",843
+"Muraro","beta",445
+"Muraro","delta",203
+"Muraro","ductal",258
+"Muraro","endothelial",21
+"Muraro","epsilon",4
+"Muraro","gamma",110
+"Muraro","macrophage",15
+"Muraro","mast",6
+"Muraro","quiescent_stellate",12
+"Muraro","schwann",4
+"Segerstolpe","acinar",188
+"Segerstolpe","activated_stellate",55
+"Segerstolpe","alpha",1008
+"Segerstolpe","beta",308
+"Segerstolpe","delta",127
+"Segerstolpe","ductal",444
+"Segerstolpe","endothelial",21
+"Segerstolpe","epsilon",8
+"Segerstolpe","gamma",213
+"Segerstolpe","macrophage",7
+"Segerstolpe","mast",7
+"Segerstolpe","quiescent_stellate",6
+"Segerstolpe","schwann",2
+"Xin","alpha",886
+"Xin","beta",472
+"Xin","delta",49
+"Xin","gamma",85
+"Tasic","Astrocytes",43
+"Tasic","Endothelial cells",29
+"Tasic","Neurons",1573
+"Tasic","Oligodendrocytes",38
+"Tasic","OPC",22
+"Tasic","PVMs & Microglia",22
+"Campbell","Astrocytes",99
+"Campbell","Endothelial cells",240
+"Campbell","Ependymocytes",467
+"Campbell","Mural cells",84
+"Campbell","Neurons",13079
+"Campbell","Oligodendrocytes",747
+"Campbell","OPC",627
+"Campbell","Pars tuberalis",388
+"Campbell","PVMs & Microglia",330
+"Campbell","Tanycytes",4688
+"Campbell","VLMCs",172
+"Ding(10x(v2))","B cell",862
+"Ding(10x(v2))","CD14+ monocyte",436
+"Ding(10x(v2))","CD16+ monocyte",50
+"Ding(10x(v2))","CD4+ T cell",963
+"Ding(10x(v2))","Cytotoxic T cell",694
+"Ding(10x(v2))","Dendritic cell",76
+"Ding(10x(v2))","Megakaryocyte",32
+"Ding(10x(v2))","Natural killer cell",219
+"Ding(10x(v2))","Plasmacytoid dendritic cell",30
+"Schaum(SMART-Seq2)","B cell",2029
+"Schaum(SMART-Seq2)","basal cell",1340
+"Schaum(SMART-Seq2)","basal cell of epidermis",1648
+"Schaum(SMART-Seq2)","basophil",25
+"Schaum(SMART-Seq2)","bladder cell",695
+"Schaum(SMART-Seq2)","bladder urothelial cell",683
+"Schaum(SMART-Seq2)","blood cell",206
+"Schaum(SMART-Seq2)","cardiac muscle cell",133
+"Schaum(SMART-Seq2)","ciliated columnar cell of tracheobronchial tree",25
+"Schaum(SMART-Seq2)","classical monocyte",90
+"Schaum(SMART-Seq2)","DN1 thymic pro-T cell",32
+"Schaum(SMART-Seq2)","endocardial cell",165
+"Schaum(SMART-Seq2)","endothelial cell",3319
+"Schaum(SMART-Seq2)","endothelial cell of hepatic sinusoid",182
+"Schaum(SMART-Seq2)","epithelial cell",201
+"Schaum(SMART-Seq2)","fibroblast",2189
+"Schaum(SMART-Seq2)","granulocyte",761
+"Schaum(SMART-Seq2)","granulocytopoietic cell",221
+"Schaum(SMART-Seq2)","hematopoietic precursor cell",265
+"Schaum(SMART-Seq2)","hepatocyte",391
+"Schaum(SMART-Seq2)","immature B cell",344
+"Schaum(SMART-Seq2)","immature T cell",1337
+"Schaum(SMART-Seq2)","keratinocyte",330
+"Schaum(SMART-Seq2)","kidney collecting duct epithelial cell",121
+"Schaum(SMART-Seq2)","late pro-B cell",306
+"Schaum(SMART-Seq2)","leukocyte",683
+"Schaum(SMART-Seq2)","luminal epithelial cell of mammary gland",578
+"Schaum(SMART-Seq2)","lung endothelial cell",693
+"Schaum(SMART-Seq2)","macrophage",395
+"Schaum(SMART-Seq2)","mesenchymal cell",830
+"Schaum(SMART-Seq2)","mesenchymal stem cell",499
+"Schaum(SMART-Seq2)","monocyte",331
+"Schaum(SMART-Seq2)","myeloid cell",1208
+"Schaum(SMART-Seq2)","natural killer cell",171
+"Schaum(SMART-Seq2)","skeletal muscle satellite cell",540
+"Schaum(SMART-Seq2)","stromal cell",863
+"Schaum(SMART-Seq2)","T cell",793
+"Zheng(FACS-sorted)","B cells",10084
+"Zheng(FACS-sorted)","CD14+ Monocytes",2465
+"Zheng(FACS-sorted)","CD34+",6312
+"Zheng(FACS-sorted)","CD4 T cells",42166
+"Zheng(FACS-sorted)","CD8 T cells",22138
+"Zheng(FACS-sorted)","Dendritic cells",99
+"Zheng(FACS-sorted)","NK cells",8385
+"Zheng","B cells",342
+"Zheng","CD14+ Monocytes",479
+"Zheng","CD4 T cells",1150
+"Zheng","CD8 T cells",308
+"Zheng","Dendritic cells",33
+"Zheng","NK cells",155
+"Tasic","Astrocyte",556
+"Tasic","Endothelial cell",166
+"Tasic","GABAergic Neuron",1045
+"Tasic","Glutamatergic Neuron",1142
+"Tasic","Oligodendrocyte & OPC",186
+"Tasic","Pericyte",32
+"Tasic","PVM & Microglia",131
+"Tasic","Smooth muscle cell",109
+"Tasic","VLMC",133
+"Tian(CEL-Seq2 )","A549",328
+"Tian(CEL-Seq2 )","H1975",129
+"Tian(CEL-Seq2 )","H2228",135
+"Tian(CEL-Seq2 )","H838",197
+"Tian(CEL-Seq2 )","HCC827",120
+"Tian(10x)","A549",1256
+"Tian(10x)","H1975",440
+"Tian(10x)","H2228",758
+"Tian(10x)","H838",876
+"Tian(10x)","HCC827",588
+"Ding(10x(v3))","B cell",346
+"Ding(10x(v3))","CD14+ monocyte",354
+"Ding(10x(v3))","CD16+ monocyte",98
+"Ding(10x(v3))","CD4+ T cell",960
+"Ding(10x(v3))","Cytotoxic T cell",962
+"Ding(10x(v3))","Dendritic cell",38
+"Ding(10x(v3))","Megakaryocyte",270
+"Ding(10x(v3))","Natural killer cell",194
+"Ding(CEL_Seq2)","B cell",1405
+"Ding(CEL_Seq2)","CD14+ monocyte",357
+"Ding(CEL_Seq2)","CD16+ monocyte",198
+"Ding(CEL_Seq2)","CD4+ T cell",2061
+"Ding(CEL_Seq2)","Cytotoxic T cell",1978
+"Ding(CEL_Seq2)","Dendritic cell",46
+"Ding(CEL_Seq2)","Megakaryocyte",27
+"Ding(CEL_Seq2)","Natural killer cell",484
+"Ding(CEL_Seq2)","Plasmacytoid dendritic cell",28
+"Ding(Drop_seq)","B cell",1045
+"Ding(Drop_seq)","CD14+ monocyte",2038
+"Ding(Drop_seq)","CD16+ monocyte",244
+"Ding(Drop_seq)","CD4+ T cell",1111
+"Ding(Drop_seq)","Cytotoxic T cell",1664
+"Ding(Drop_seq)","Dendritic cell",148
+"Ding(Drop_seq)","Megakaryocyte",145
+"Ding(Drop_seq)","Natural killer cell",147
+"Ding(Drop_seq)","Plasmacytoid dendritic cell",42
+"Ding(inDrops)","B cell",527
+"Ding(inDrops)","CD14+ monocyte",1255
+"Ding(inDrops)","CD4+ T cell",566
+"Ding(inDrops)","Cytotoxic T cell",1278
+"Ding(inDrops)","Dendritic cell",37
+"Ding(inDrops)","Megakaryocyte",38
+"Ding(inDrops)","Plasmacytoid dendritic cell",26
+"Ding(Seq_Well)","B cell",80
+"Ding(Seq_Well)","CD14+ monocyte",31
+"Ding(Seq_Well)","CD16+ monocyte",21
+"Ding(Seq_Well)","CD4+ T cell",160
+"Ding(Seq_Well)","Cytotoxic T cell",174
+"Ding(Seq_Well)","Megakaryocyte",18
+"Ding(Seq_Well)","Natural killer cell",42
+"Ding(Smart_seq2)","B cell",79
+"Ding(Smart_seq2)","CD14+ monocyte",60
+"Ding(Smart_seq2)","CD16+ monocyte",18
+"Ding(Smart_seq2)","CD4+ T cell",112
+"Ding(Smart_seq2)","Cytotoxic T cell",193
+"Ding(Smart_seq2)","Megakaryocyte",14
+"Ding(Smart_seq2)","Natural killer cell",50
+"Schaum(10x)","B cell",5615
+"Schaum(10x)","basal cell",27
+"Schaum(10x)","basal cell of epidermis",2020
+"Schaum(10x)","bladder cell",192
+"Schaum(10x)","bladder urothelial cell",141
+"Schaum(10x)","blood cell",153
+"Schaum(10x)","classical monocyte",4
+"Schaum(10x)","endocardial cell",1
+"Schaum(10x)","endothelial cell",971
+"Schaum(10x)","epithelial cell",99
+"Schaum(10x)","fibroblast",4
+"Schaum(10x)","granulocyte",73
+"Schaum(10x)","granulocytopoietic cell",14
+"Schaum(10x)","hematopoietic precursor cell",24
+"Schaum(10x)","hepatocyte",374
+"Schaum(10x)","immature B cell",3
+"Schaum(10x)","immature T cell",222
+"Schaum(10x)","keratinocyte",1035
+"Schaum(10x)","kidney collecting duct epithelial cell",24
+"Schaum(10x)","late pro-B cell",14
+"Schaum(10x)","leukocyte",19
+"Schaum(10x)","luminal epithelial cell of mammary gland",35
+"Schaum(10x)","lung endothelial cell",24
+"Schaum(10x)","macrophage",208
+"Schaum(10x)","mesenchymal cell",5200
+"Schaum(10x)","mesenchymal stem cell",169
+"Schaum(10x)","monocyte",42
+"Schaum(10x)","myeloid cell",2
+"Schaum(10x)","natural killer cell",142
+"Schaum(10x)","skeletal muscle satellite cell",11
+"Schaum(10x)","stromal cell",1153
+"Schaum(10x)","T cell",1985
+"Schaum (Lung_SMART-Seq2 )","B cell",57
+"Schaum (Lung_SMART-Seq2 )","ciliated columnar cell of tracheobronchial tree",25
+"Schaum (Lung_SMART-Seq2 )","classical monocyte",90
+"Schaum (Lung_SMART-Seq2 )","leukocyte",35
+"Schaum (Lung_SMART-Seq2 )","lung endothelial cell",693
+"Schaum (Lung_SMART-Seq2 )","monocyte",65
+"Schaum (Lung_SMART-Seq2 )","myeloid cell",85
+"Schaum (Lung_SMART-Seq2 )","natural killer cell",37
+"Schaum (Lung_SMART-Seq2 )","stromal cell",423
+"Schaum (Lung_SMART-Seq2 )","T cell",53
+"Schaum (Lung_10)","B cell",140
+"Schaum (Lung_10)","classical monocyte",4
+"Schaum (Lung_10)","leukocyte",9
+"Schaum (Lung_10)","lung endothelial cell",24
+"Schaum (Lung_10)","myeloid cell",2
+"Schaum (Lung_10)","natural killer cell",113
+"Schaum (Lung_10)","stromal cell",888
+"Schaum (Lung_10)","T cell",123
