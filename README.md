@@ -9,7 +9,7 @@ For user convenience, I have included an example dataset in the dataset folder, 
 - **Link to Annotation Tools**
 
   For the information of software updates, please go to their corresponding pages.
-  - [Seurat](https://satijalab.org/seurat/)[Recently updated Version 5]
+  - [Seurat](https://satijalab.org/seurat/)[V4]
   - [SingleR](https://github.com/dviraran/SingleR)
   - [scmap](https://bioconductor.org/packages/release/bioc/vignettes/scmap/inst/doc/scmap.html)
   - [CHETAH](https://github.com/jdekanter/CHETAH)
